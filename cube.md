@@ -30,4 +30,30 @@ Clockwise:
 Counterclockwise:
     R, U', R, U, R, U, R, U', R', U', R2
 
+4x4x4 Algorithms 
+================
 
+Note: Uppercase is outer, lowercase is inner
+
+Last two edges
+--------------
+
+If they are diagnol from each other:
+    R, U, R', U', F', U, F
+
+Once they are straight across from each other:
+    Dd, R, F', U, R', F, Dd'
+
+Yellow edge flip
+----------------
+
+r' U2 l F2 l' F2 r2 U2 r U2 r' U2 F2 r2 F2
+
+Ending Resolution
+-----------------
+
+If across face mismtaching face towards you.
+If on corner, face one mismatched face towards you and face other towards right.
+If both across face then do the the across mismatch twice.
+
+Uu2, Rr2, U2, r2, U2, Rr2, Uu2
