@@ -30,6 +30,11 @@ Clockwise:
 Counterclockwise:
     R, U', R, U, R, U, R, U', R', U', R2
 
+2x2x2
+=====
+
+[cube2yellow.png](cube2yellow.png)
+
 4x4x4 Algorithms 
 ================
 
