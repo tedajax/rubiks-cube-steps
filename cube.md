@@ -62,3 +62,8 @@ If on corner, face one mismatched face towards you and face other towards right.
 If both across face then do the the across mismatch twice.
 
 Uu2, Rr2, U2, r2, U2, Rr2, Uu2
+
+5x5x5
+=====
+
+[parity_algs_5x5.png](parity_algs_5x5.png)
