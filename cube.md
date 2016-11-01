@@ -33,7 +33,7 @@ Counterclockwise:
 2x2x2
 =====
 
-[cube2yellow.png](cube2yellow.png)
+![cube2yellow.png](cube2yellow.png)
 
 4x4x4 Algorithms 
 ================
@@ -66,4 +66,4 @@ Uu2, Rr2, U2, r2, U2, Rr2, Uu2
 5x5x5
 =====
 
-[parity_algs_5x5.png](parity_algs_5x5.png)
+![parity_algs_5x5.png](parity_algs_5x5.png)
